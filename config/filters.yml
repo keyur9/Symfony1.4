@@ -1,0 +1,12 @@
+rendering: ~
+security:  ~
+
+# insert your own filters here
+MoesifFilter:  
+  class: MoesifFilter
+  param:
+    applicationId: Moesif Application Id
+    debug: true
+
+cache:     ~
+execution: ~
